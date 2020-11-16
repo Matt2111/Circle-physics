@@ -34,7 +34,7 @@ def Main():
     # Changeable simulation parameters
     seed(5)
     # How many times per second you want the simulation to log the state of the circles
-    FRAMERATE = 1 / 30
+    FRAMERATE = 100
     # How many collision per second
     COLLISIONS = 1000
     # Simulation time (seconds)
